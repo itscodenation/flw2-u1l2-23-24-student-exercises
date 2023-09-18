@@ -24,10 +24,10 @@ cookie.addEventListener("click", function () {
 oven.addEventListener("click", function () {
 // 4. Create an if/else statement. 
 // - Anytime the totalCookies is greater than or equal to 30, these four things happen:
-//      - Reassign the totalCookies variable to itself minus 30
-//      - Update the displayCookies innerHTML to equal totalCookies
-//      - Reassign the ovens variable to itself plus 1
-//      - Update the displayOvens innerHTML to equal ovens
+//      - Update the value of the `totalCookies` variable to be itself minus 30
+//      - Update the `displayCookies` innerHTML to equal `totalCookies`
+//      - Update the value of the `ovens` variable to itself plus 1
+//      - Update the `displayOvens` innerHTML to equal `ovens`
 // - Else, an alert will pop up that says "You need 30 cookies to buy an oven!" (or something that gets that message across)
 
 
