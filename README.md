@@ -8,7 +8,7 @@ Welcome to the lesson on IDEs, Variables, and Conditionals! This README serves a
 - [Technical Questions](#technical-questions)
 - [JavaScript Math](#javascript-math)
 - [Conditionals in JavaScript](#conditionals-in-javascript)
-- [Feedback & Resources](#feedback-&-resources)
+
 
 ---
 
